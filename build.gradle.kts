@@ -9,7 +9,7 @@ plugins {
 
 group = "com.example.kotlin"
 version = "0.0.1-SNAPSHOT"
-java.sourceCompatibility = JavaVersion.VERSION_1_6
+java.sourceCompatibility = JavaVersion.VERSION_12
 
 repositories {
 	mavenCentral()
